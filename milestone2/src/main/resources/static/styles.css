@@ -1,0 +1,47 @@
+.button {
+    border-radius: 12px;
+    background-color: darkkhaki;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 0 auto;
+    max-width: 600px;
+    border: 1px solid #dee2e6;
+    width: 300px;
+    height: 90px;
+    font-size: 30px;
+}
+
+.button2 {
+    border-radius: 12px;
+    background-color: darkkhaki;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 0 auto;
+    max-width: 600px;
+    border: 1px solid #dee2e6;
+    width: 170px;
+    height: 40px;
+    font-size: 15px;
+}
+
+.buttonDelete {
+    border-radius: 12px;
+    background-color:crimson;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 0 auto;
+    max-width: 600px;
+    border: 1px solid #dee2e6;
+    width: 170px;
+    height: 40px;
+    font-size: 15px;
+}
+
+.button:hover {
+    background-color: khaki;
+}
+
+.button2:hover {
+    background-color: khaki;
+}
+
+.buttonDelete:hover {
+    background-color: red;
+}
